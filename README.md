@@ -35,7 +35,7 @@
 
   - 👋 Hi, I’m r0h1th<br>
   - 👀 I’m a  20-Year-Old Cybersecurity Enthusiast | Aspiring to Secure the Digital World
-  - 🔭 Has Good Experience In Bugbounty,Pentesting,Reversing etc . . . .
+  - 🔭 Has Good Experience In Bugbounty,Pentesting,Reversing etc . . . 
   - 📚 I'm currently learning new technologies and techniques to become better than the day before.
   - 📝 I regularly blog about cybersecurity on [r0h1th.medium.com](r0h1th.medium.com)  
   - ⚡ In my free time I Hack > Code > Repeat
