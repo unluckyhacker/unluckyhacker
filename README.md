@@ -35,9 +35,9 @@
 
 ###
 
-  - 👋 Hi, I’m r0h1th<br>
-  - 👀 I’m a  20-Year-Old Cybersecurity Enthusiast | Aspiring to Secure the Digital World
-  - 🔭 Has Good Experience In Bugbounty,Pentesting,Reversing etc . . . 
+  - 👋 Hi, I’m Rohith <br>
+  - 👀 I’m a  22-Year-Old Cybersecurity Enthusiast | Aspiring to Secure the Digital World
+  - 🔭 Has Good Experience In Bugbounty, Web Pentesting, Crypto, Reversing etc . . . 
   - 📚 I'm currently learning new technologies and techniques to become better than the day before.
   - 📝 I regularly blog about cybersecurity on [r0h1th.medium.com](r0h1th.medium.com)  
   - ⚡ In my free time I Hack > Code > Repeat
@@ -77,8 +77,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
 </div>
 
@@ -91,8 +89,9 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
-
-![Snake animation](https://github.com/unluckyhacker/unluckyhacker/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Typing SVG" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=unluckyhacker&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
