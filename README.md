@@ -44,7 +44,6 @@
 ---
 ###
 <h3 align="left">🛠 Language and tools </h3>
-###
 
 <div align="left">
       <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
