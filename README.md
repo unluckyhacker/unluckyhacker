@@ -34,14 +34,14 @@
 <h3 align="left">Whoami</h3>
 
 ###
-```
+---
   - 👋 Hi, I’m Rohith <br>
   - 👀 I’m a  22-Year-Old Cybersecurity Enthusiast | Aspiring to Secure the Digital World
   - 🔭 Has Good Experience In Bugbounty, Web Pentesting, Crypto, Reversing etc . . . 
   - 📚 I'm currently learning new technologies and techniques to become better than the day before.
   - 📝 I regularly blog about cybersecurity on [r0h1th.medium.com](r0h1th.medium.com)  
   - ⚡ In my free time I Hack > Code > Repeat
-```
+---
 ###
 
 <h3 align="left">🛠 Language and tools </h3>
