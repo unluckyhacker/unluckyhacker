@@ -24,7 +24,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=On+journey+to+become+a+great+Hacker" alt="Typing SVG" />
   </a>
 </div>
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/unluckyhacker/count.svg?"  />
