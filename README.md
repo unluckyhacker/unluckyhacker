@@ -60,7 +60,6 @@
       <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
 </div>
-###
 ✍️  Dev Quote ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ###
