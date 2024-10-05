@@ -61,9 +61,7 @@
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
 </div>
 ###
-✍️  Dev Quote 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-###
+✍️  Dev Quote ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ###
 <h3 align="left">🔥   My Stats :</h3>
