@@ -1,71 +1,49 @@
 <div align="center">
-  <img height="150" src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" />
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif"  />
 </div>
 
 ###
 
-<div align="center">
-  <a href="https://linkedin.com/in/roh1th/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://r0h1th.medium.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&color=12100E&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r0h1th" height="30" width="40"" height="25" />
-  </a>
-</div>
-
-###
+<br clear="both">
 
 <h1 align="center">Hey there 👋 I'm Rohith</h1>
 
+###
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=On+a+journey+to+become+a+great+hacker" />
+  <img height="40" src="https://camo.githubusercontent.com/63b90122456a3b800ff8098f22ebc2a063043aa67f87f5f06618f73140cf82e0/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f64652670617573653d3130303026636f6c6f723d3232463730302677696474683d343335266c696e65733d4f6e2b612b6a6f75726e65792b746f2b6265636f6d652b612b67726561742b6861636b6572"  />
 </div>
 
----
+###
 
-<h3 align="left">🧑‍💻 Who Am I</h3>
+<br clear="both">
 
-- 👋 Hi, I’m Rohith  
-- 👀 22-year-old cybersecurity enthusiast, aspiring to secure the digital world  
-- 🔭 Experienced in bug bounty hunting, web pentesting, cryptography, and reversing  
-- 📚 Continuously learning new technologies and techniques every day  
-- 📝 I regularly write about cybersecurity on https://r0h1th.medium.com/  
-- ⚡ In my free time: Hack → Code → Repeat  
-
----
-
-<h3 align="left">🛠 Languages & Tools</h3>
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" />
-  <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" />
-  <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&color=000000" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" />
-  <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&color=000000" />
-  <img src="https://img.shields.io/badge/HTML5-5D4B6C?style=for-the-badge&logo=html5&color=000000" />
-  <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&color=000000" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=000000" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" />
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Red Hat-EE0000?logo=redhat&logoColor=white&style=for-the-badge" height="30" alt="redhat logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GNU Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Nim-FFE953?logo=nim&logoColor=black&style=for-the-badge" height="30" alt="nim logo"  />
 </div>
 
----
+###
 
-<h3 align="left">🔥 My Stats</h3>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+</div>
 
-<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Typing SVG" /> </div>
+###
 
----
+<h2 align="left">🧑‍💻 Who Am I</h2>
 
-### 👥 Let's Collaborate
+###
 
-I'm always open to collaborating on impactful cybersecurity and ethical hacking projects.  
-Feel free to reach out if you have ideas, research topics, or opportunities.
+<br clear="both">
 
-🌟 Thanks for visiting my GitHub profile — let's make the digital world more secure. 🌟
+<p align="left">👋 Hi, I’m Rohith<br>👀 22-year-old cybersecurity enthusiast, driven to secure the digital world<br>🔭 Experienced in web penetration testing, bug bounty hunting, smart contract auditing, cryptography, and reverse engineering<br>📚 Continuously learning and evolving with new technologies, attack vectors, and defensive strategies<br>💸 In my free time, I hunt bugs, make money, and chase CVEs</p>
